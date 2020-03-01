@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-el1flem",
+  "version": "1.0.0",
+  "description": "CRA template for my personal projects",
+  "main": "index.js",
+  "author": "Ayoub Aabass",
+  "license": "MIT",
+  "private": false
+}
