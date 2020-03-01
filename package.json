@@ -1,9 +1,21 @@
 {
   "name": "cra-template-el1flem",
   "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "el1flem"
+  ],
   "description": "CRA template for my personal projects",
-  "main": "index.js",
-  "author": "Ayoub Aabass",
+  "repository": "https://github.com/el1f/cra-template-el1flem.git",
+  "bugs": "https://github.com/el1f/cra-template-el1flem/issues",
+  "author": "Ayoub Aabass <ayoub@aabass.net>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
